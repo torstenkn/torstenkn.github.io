@@ -23,7 +23,7 @@ email: torsten@kneuss.de
 description: >- # this means to ignore newlines until "baseurl:"
   I am an engineer, and I am working in Berlin. Primary areas of my work and interests are medical devices (including medical software), (drug/device) combination products, pharmaceutical packaging, and information technology.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://torstenkn.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: tkneuss
 github_username:  torstenkn
 
